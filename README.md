@@ -441,6 +441,11 @@ SELECT * FROM avg_before_after_time;
 
 **Objective:** Compare average engagement scores before and after training.
 
+### ✍️ Author - Sameer Kumar Sahu
+
+This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
+
 
 
 
