@@ -1,4 +1,4 @@
-# Employee-HR-Analytics-Project
+# Employee/HR Analytics Project Using MySQL
 
 ### Dataset Link: https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset
 
@@ -15,3 +15,5 @@ The project is divided into three levels—Basic, Intermediate, and Advanced—w
 - SQL (MySQL syntax)
 
 - Relational database schema (employee, recruitment, training_development, employee_survay)
+
+
